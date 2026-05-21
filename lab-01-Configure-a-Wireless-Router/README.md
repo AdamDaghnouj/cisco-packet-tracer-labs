@@ -18,22 +18,22 @@ connectivity between devices.
 ## 📸 Screenshots
 
 ### Network Topology
-![Topology](screenshots/00_network-topology)
+![Topology](screenshots/00_network-topology.jpg)
 
 ### Router Login
-![Router Login](screenshots/01_router-login)
+![Router Login](screenshots/01_router-login.jpg)
 
 ### SSID Configuration
-![SSID](screenshots/02_wireless-ssid-config)
+![SSID](screenshots/02_wireless-ssid-config.jpg)
 
 ### DHCP Setup
-![DHCP](screenshots/03_dhcp-network-setup)
+![DHCP](screenshots/03_dhcp-network-setup.jpg)
 
 ### IP Assignments
-![IPs](screenshots/04_dhcp-ip-assignments)
+![IPs](screenshots/04_dhcp-ip-assignments.jpg)
 
 ### Ping Test
-![Ping](screenshots/05_ping-connectivity-test.png)
+![Ping](screenshots/05_ping-connectivity-test.jpg)
 
 ### All Devices IP Config
-![All Devices](screenshots/07_dhcp-ip-assignments-all-devices.png)
+![All Devices](screenshots/07_dhcp-ip-assignments-all-devices.jpg)
