@@ -24,4 +24,4 @@
 **Adam Daghnouj** — Telecommunications Student at ISITCOM | Networking Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-AdamDaghnouj-black?logo=github)](https://github.com/AdamDaghnouj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdamDaghnouj-blue?logo=linkedin)](https://linkedin.com/in/AdamDaghnouj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdamDaghnouj-blue?logo=linkedin)](https://www.linkedin.com/in/adam-daghnouj-66ab5a342/)
