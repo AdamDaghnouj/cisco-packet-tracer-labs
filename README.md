@@ -6,11 +6,12 @@
 
 ## 📚 Labs
 
-| # | Lab | Topics | Status |
-|---|-----|--------|--------|
-| 01 | [Configure a Wireless Router and Client](./lab-01-Configure-a-Wireless-Router/) | DHCP, SSID, Ping, IP Config | ✅ Done |
-| 02 | [Connect to a Web Server](./lab-02-connect-to-web-server/) | HTTP, Client-Server, Ping, Simulation | ✅ Done |
-| 03 | Coming soon... | | 🔄 |
+| #  | Lab                                                                 | Topics                          | Status |
+|----|----------------------------------------------------------------------|----------------------------------|--------|
+| 01 | [Configure a Wireless Router and Client](lab-01-Configure-a-Wireless-Router) | DHCP, SSID, Ping, IP Config     | ✅ Done |
+| 02 | [Connect to a Web Server](lab-02-connect-to-web-server)              | HTTP, Client-Server, Ping, Simulation | ✅ Done |
+| 03 | [Configure DHCP on a Wireless Router](lab-03-configure-DHCP-on-a-Wireless-Router) | DHCP Server, IP Pool, Ping, ipconfig | ✅ Done |
+| 04 | Coming soon...                                                       |                                  | 🔄 |
 
 ---
 
